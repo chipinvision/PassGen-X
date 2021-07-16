@@ -15,6 +15,11 @@
    - Windows 10
    - Kali Linux
 
+## Requirements
+
+   - Pyfiglet
+      - pip install pyfiglet (For Windows)
+      - pip3 install pyfiglet (For Linux)
 ## Installation Guide:
 
 - For Linux:
@@ -33,10 +38,10 @@
 
 ### osinfo on Windows
 
-![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902806-4be95d7a-c889-471f-a6c9-8e7c77cd2d50.png)
+![passgenwin](https://user-images.githubusercontent.com/72114434/125936563-e2db3965-01ee-4409-a166-9cce44f6d501.png)
 
 
 ### osinfo on Linux
 
-![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902880-f0b4911f-e2d4-42b4-b23a-ac3e15161543.png)
+![passgenlin](https://user-images.githubusercontent.com/72114434/125936627-36b70bf7-2c72-4273-afe8-b416f6d39eae.png)
 
