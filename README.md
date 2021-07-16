@@ -7,6 +7,7 @@
 **PassGen-X** is a ultimate password generator written using Python which generates strong and secure passwords. 
     
 ## Available On:
+
    - Windows 10
    - Linux
 
@@ -33,8 +34,10 @@
 
 ### osinfo on Windows
 
+![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902806-4be95d7a-c889-471f-a6c9-8e7c77cd2d50.png)
 
 
 ### osinfo on Linux
-![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902420-9caa3cc8-5bb8-4295-a859-7efe99148768.png)
+
+![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902880-f0b4911f-e2d4-42b4-b23a-ac3e15161543.png)
 
