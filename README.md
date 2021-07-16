@@ -2,6 +2,7 @@
 
 # **PassGen-X** - Ultimate Password Generator
 
+![pbanner](https://user-images.githubusercontent.com/72114434/125901525-7d0589e3-dc89-44f9-9ad2-fe4d37ebba1f.png)
 
 **PassGen-X** is a ultimate password generator written using Python which generates strong and secure passwords. 
     
@@ -18,16 +19,16 @@
 
 - For Linux:
 
-   -  git clone https://github.com/chipinvision/osinfo
-   -  cd osinfo
+   -  git clone https://github.com/chipinvision/PassGen-X
+   -  cd PassGen-X
    -  ls
-   -  python3 osinfo.py
+   -  python3 passgen.py
 
 - For Windows:
 
-   -  git clone https://github.com/chipinvision/osinfo
-   -  cd osinfo
-   -  python osinfo.py
+   -  git clone https://github.com/chipinvision/PassGen-X
+   -  cd PassGen-X
+   -  python passgen.py
 
 
 ### osinfo on Windows
@@ -35,5 +36,5 @@
 
 
 ### osinfo on Linux
-
+![Screenshot 2021-07-15 235827](https://user-images.githubusercontent.com/72114434/125902420-9caa3cc8-5bb8-4295-a859-7efe99148768.png)
 
